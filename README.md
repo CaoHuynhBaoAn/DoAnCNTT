@@ -1,5 +1,7 @@
 # The Restaurent
 
-A Simple Demo Resturant Management System Project in PHP
+Đây là dự án được thực hiện nhằm hoàn thành môn học Đồ Án CNTT
 
-A pure custom PHP Project. Build for reference!
+Thành Viên:
+Cao Huỳnh Bảo An
+Phạm Trịnh Tây Nguyên
